@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-with-ubiquiti-unifi-network
+# Home Assistant with Ubiquiti UniFi Network
 
-Based on "ABC" at https://www.abc.com/
+Based on "UniFi Network" at https://www.home-assistant.io/integrations/unifi/
 
 ## 100 - Introduction
 
