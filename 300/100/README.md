@@ -27,4 +27,6 @@ Port: **443**
 
 Leave the checkbox empty for ```Verify SSL certificate```.
 
-Click **Submit**
+Click **SUBMIT**
+
+If shown a prompt **UniFi Network**, click **SUBMIT** on the dialogue window.
