@@ -17,7 +17,7 @@ In our case, click ```UniFi Network```.
 
 You will presented with a form.
 
-Host: **https://unifi**
+Host: **unifi.ui.com**
 
 Username: **wvanheemstra@icloud.com**
 
