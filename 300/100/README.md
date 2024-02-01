@@ -48,3 +48,15 @@ Leave the checkbox empty for ```Verify SSL certificate```.
 Click **SUBMIT**
 
 If shown a prompt **UniFi Network**, click **SUBMIT** on the dialogue window.
+
+After a few seconds, you hopefully see a dialogue window: **Success!**
+
+It will list the devices, here:
+
+- UniFi WLAN (Ubituiti Networks)
+- UniFi Express UX (Ubiquiti Networks)
+- UniFi Network Application (Ubiquiti Networks)
+
+You can choose Areas to assign these devices to or simply click **FINISH**.
+
+
