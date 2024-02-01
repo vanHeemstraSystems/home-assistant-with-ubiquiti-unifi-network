@@ -15,3 +15,16 @@ You will be presented with a list of Ubiquiti integrations:
 
 In our case, click ```UniFi Network```.
 
+You will presented with a form.
+
+Host: **https://unifi**
+
+Username: **wvanheemstra@icloud.com**
+
+Password: ******* (the password you signed up with with UniFi Network)
+
+Port: **443**
+
+Leave the checkbox empty for ```Verify SSL certificate```.
+
+Click **Submit**
