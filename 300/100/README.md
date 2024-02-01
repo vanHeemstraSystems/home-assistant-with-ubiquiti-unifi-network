@@ -105,5 +105,12 @@ Click **NEXT**
 
 Lastly, I ticked the following check boxes on the **UniFi Network options 3/3** dialogue window:
 
+Configure statistics sensors.
+
+[ X ] Bandwidth usage sensors for network clients
+
+[ X ] Uptime sensors for network clients
+
+Click **SUBMIT**
 
 MORE ...
