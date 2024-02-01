@@ -8,6 +8,8 @@ When asked to enter your Home Assistant URL, enter ```http://10.211.55.4:8123```
 
 When prompted: ```Open page in your Home Assistant?```, click **Open link**.
 
+Inside Home Assistant (https://10.211.55.4:8123/config/integrations/dashboard) you will se a dialogue window that states: ```Do you want to set up UniFi Network?``. Click **OK**.
+
 ## 200 - Manually
  
 Inside Home Assistant go to **Settings** > **Devices & Services**.
