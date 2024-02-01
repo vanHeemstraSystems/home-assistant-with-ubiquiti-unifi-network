@@ -31,13 +31,15 @@ In our case, click ```UniFi Network```.
 
 **NOTE**: You will need to have set up a **local user with password** on one of your UniFi Cloud Gateways (here: UniFi Express), before you can log in from Home Assistant! You can add a local user via [OS Settings > Admins](https://unifi.ui.com/consoles/942A6F0EB0C20000000007E83892000000000852CCED0000000065A3FE78:1406079628/admins/users)
 
+![local-admin](https://github.com/vanHeemstraSystems/home-assistant-with-ubiquiti-unifi-network/assets/1499433/d2134508-885d-41e1-a026-82e3602ffe8f)
+
 You will presented with a form.
 
 Host: **192.168.1.1** (The I.P. Address of our UniFi Express)
 
-Username: **wvanheemstra@icloud.com**
+Username: **local-admin**
 
-Password: ******* (the password you signed up with with UniFi Network)
+Password: ******* (the password you created for the ```local-admin``` user in UniFi OS)
 
 Port: **443**
 
