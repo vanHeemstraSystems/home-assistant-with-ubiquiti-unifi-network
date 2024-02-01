@@ -35,7 +35,7 @@ In our case, click ```UniFi Network```.
 
 You will presented with a form.
 
-Host: **192.168.1.1** (The I.P. Address of our UniFi Express)
+Host: **192.168.1.1** (The I.P. Address of our UniFi Express, or use **unify** as a hostname instead)
 
 Username: **local-admin**
 
@@ -119,6 +119,8 @@ Options successfully saved.
 
 Click **FINISH**
 
+You are done!
 
+You can now click through your devices
 
 MORE ...
