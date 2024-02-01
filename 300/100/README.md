@@ -27,6 +27,8 @@ You will be presented with a list of Ubiquiti integrations:
 
 In our case, click ```UniFi Network```.
 
+## 300 - In both cases, continue as follows
+
 You will presented with a form.
 
 Host: **192.168.1.1** (The I.P Address of our UniFi Express)
