@@ -123,4 +123,6 @@ You are done!
 
 You can now click through your devices
 
-MORE ...
+## 500 - Further reading
+
+Recommended reading **Home Assistant automations based on WiFi connection status** at https://www.youtube.com/watch?v=K4CEsp6tBcE
