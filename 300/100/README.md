@@ -31,7 +31,7 @@ In our case, click ```UniFi Network```.
 
 You will presented with a form.
 
-Host: **192.168.1.1** (The I.P Address of our UniFi Express)
+Host: **192.168.1.1** (The I.P. Address of our UniFi Express)
 
 Username: **wvanheemstra@icloud.com**
 
