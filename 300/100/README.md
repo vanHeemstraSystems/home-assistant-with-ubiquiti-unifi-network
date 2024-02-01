@@ -29,6 +29,8 @@ In our case, click ```UniFi Network```.
 
 ## 300 - In both cases, continue as follows
 
+**NOTE**: You will need to have set up a **local user with password** on one of your UniFi Cloud Gateways (here: UniFi Express), before you can log in from Home Assistant!
+
 You will presented with a form.
 
 Host: **192.168.1.1** (The I.P. Address of our UniFi Express)
