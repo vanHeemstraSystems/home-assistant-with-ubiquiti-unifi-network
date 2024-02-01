@@ -62,3 +62,34 @@ You can choose Areas to assign these devices to or simply click **FINISH**.
 A new integration card will now show at your Integrations, named **UniFi Network**.
 
 Click on it for further configuration.
+
+## 400 - Configure UniFi Network Integration
+
+When clicking on **Configuration** on the UniFi Network Integration, I was prompted if I wanted to create entities from the wired linked TP-Link Router. Your network set up may differ, so use this only as a use case.
+
+I agreed to creating Entities from the TP-Link Router.
+
+Next, I ticked the following check boxes on the IniFi Network options 1/3 dialogue window:
+
+Configure device tracking:
+
+[ X ] Track network clients
+
+[ X ] Include wired network clients
+
+[ X ] Track network devices (Ubiquiti devices)
+
+Select SSIDs to track wireless clients on 
+
+[ X ] UniFi (the name I gave to my UniFi local WiFi network, yours may differ)
+
+Time in seconds from last seen until considered away: 300
+
+[ ] Disable UniFi Network wired bug logic
+
+Click **NEXT**
+
+
+
+
+MORE ...
