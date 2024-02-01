@@ -59,4 +59,6 @@ It will list the devices, here:
 
 You can choose Areas to assign these devices to or simply click **FINISH**.
 
+A new integration card will now show at your Integrations, named **UniFi Network**.
 
+Click on it for further configuration.
