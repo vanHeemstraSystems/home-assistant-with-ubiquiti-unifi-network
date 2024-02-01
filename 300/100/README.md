@@ -6,7 +6,7 @@ Visit https://home-assistant.io/integrations/unifi and click the button **ADD IN
 
 When asked to enter your Home Assistant URL, enter ```http://10.211.55.4:8123``` (in our case, check yours) and choose **Save**.
 
-...
+When prompted: ```Open page in your Home Assistant?```, click **Open link**.
 
 ## 200 - Manually
  
