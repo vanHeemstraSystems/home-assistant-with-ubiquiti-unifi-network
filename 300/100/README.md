@@ -113,4 +113,12 @@ Configure statistics sensors.
 
 Click **SUBMIT**
 
+You will be prompted: **Success!**
+
+Options successfully saved.
+
+Click **FINISH**
+
+
+
 MORE ...
