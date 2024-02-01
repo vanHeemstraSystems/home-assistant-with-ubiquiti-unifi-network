@@ -29,7 +29,7 @@ In our case, click ```UniFi Network```.
 
 ## 300 - In both cases, continue as follows
 
-**NOTE**: You will need to have set up a **local user with password** on one of your UniFi Cloud Gateways (here: UniFi Express), before you can log in from Home Assistant!
+**NOTE**: You will need to have set up a **local user with password** on one of your UniFi Cloud Gateways (here: UniFi Express), before you can log in from Home Assistant! You can add a local user via [OS Settings > Admins](https://unifi.ui.com/consoles/942A6F0EB0C20000000007E83892000000000852CCED0000000065A3FE78:1406079628/admins/users)
 
 You will presented with a form.
 
