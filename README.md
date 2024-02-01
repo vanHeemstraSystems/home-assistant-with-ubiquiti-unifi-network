@@ -5,6 +5,8 @@ Based on "UniFi Network" at https://www.home-assistant.io/integrations/unifi/
 
 Based on "Ubiquiti UniFi Design Center" at https://github.com/vanHeemstraSystems/ubiquiti-unifi-design-center
 
+Based on "Home Assistant Ubiquiti Unifi Network integration" at https://www.youtube.com/watch?v=gNkpj20gNDc
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
