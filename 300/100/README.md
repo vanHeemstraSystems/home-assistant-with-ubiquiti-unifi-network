@@ -69,7 +69,7 @@ When clicking on **Configuration** on the UniFi Network Integration, I was promp
 
 I agreed to creating Entities from the TP-Link Router.
 
-Next, I ticked the following check boxes on the IniFi Network options 1/3 dialogue window:
+Next, I ticked the following check boxes on the **UniFi Network options 1/3** dialogue window:
 
 Configure device tracking:
 
@@ -89,7 +89,21 @@ Time in seconds from last seen until considered away: 300
 
 Click **NEXT**
 
+Next, I ticked the following check boxes on the **UniFi Network options 2/3** dialogue window:
 
+Configure client controls
+
+Create switches for serial numbersyou want to control network access for.
+
+Network access controlled clients
+
+[ X ] TP-Link Router (30:de:4b:a2:14:77) - Note: I have this router, you may not.
+
+[ X ] Allow control of DPI restriction groups
+
+Click **NEXT**
+
+Lastly, I ticked the following check boxes on the **UniFi Network options 3/3** dialogue window:
 
 
 MORE ...
