@@ -1,5 +1,15 @@
 # 100 - Install the UniFi Integration in Home Assistant
 
+## 100 - Automatically
+
+Visit https://home-assistant.io/integrations/unifi and click the button **ADD INTEGRATION TO MY HOME ASSISTANT**.
+
+When asked to enter your Home Assistant URL, enter ```10.211.55.4``` (in our case, check yours) and choose **Save**.
+
+...
+
+## 200 - Manually
+ 
 Inside Home Assistant go to **Settings** > **Devices & Services**.
 
 Under the tab ```Integrations```, if the **Ubiquiti** Integration is not yet listed, click **+ ADD INTEGRATION**.
